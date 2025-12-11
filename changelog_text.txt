@@ -1,0 +1,51 @@
+✨ Additions
+
+Added Mystic Gears – new early/mid-game armor progression.
+
+Introduced Ore Growth mini-mod to improve cave resource variety.
+
+Added lightweight WeatherTweaks for softer storm transitions.
+
+New Small Pets utility mobs (cosmetic only).
+
+🔧 Changes
+
+Rebalanced tool durability across all modded pickaxes.
+
+Tweaked world generation to reduce floating trees by ~40%.
+
+Improved structure spawning logic for better performance.
+
+Updated shaders for smoother ambient lighting.
+
+Adjusted loot tables in desert pyramids and dungeon chests.
+
+🐛 Fixes
+
+Fixed crash when opening backpacks while gliding.
+
+Resolved an issue where certain flowers generated as black cubes.
+
+Fixed desync when placing fences on chunk borders.
+
+Corrected missing sound effects for custom doors.
+
+⚙️ Mod Updates
+
+BetterCaves → 3.2.1
+
+ItemExpansion → 1.6.0
+
+MobVariants → 2.4.3
+
+PerformanceSuite → 0.9.8
+
+CoreLib → 2.21.0
+
+📉 Performance
+
+Minor memory optimization during worldgen.
+
+Reduced particle counts for several custom entities.
+
+Startup time reduced by ~8%.
