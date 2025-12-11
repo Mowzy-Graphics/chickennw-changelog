@@ -12,7 +12,7 @@ New Small Pets utility mobs (cosmetic only).
 
 Rebalanced tool durability across all modded pickaxes.
 
-Tweaked world generation to reduce floating trees by ~40%.
+Tweaked world generation to reduce floating trees by 40%.
 
 Improved structure spawning logic for better performance.
 
@@ -48,4 +48,4 @@ Minor memory optimization during worldgen.
 
 Reduced particle counts for several custom entities.
 
-Startup time reduced by ~8%.
+Startup time reduced by 8%.
